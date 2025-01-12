@@ -6,6 +6,8 @@ Este eBook foi criado para oferecer receitas saudáveis, saborosas e práticas p
 ## 🤖 Tecnologias Utilizadas
 ChatGPT-4: Utilizado para gerar os textos do eBook, incluindo introduções, descrições de receitas e dicas nutricionais.
 Leonardo AI: Ferramenta empregada para criar a imagem da capa do eBook, com um design acolhedor e alinhado ao tema de saúde.
+Adobe Photoshop: Empregado para ajustar e refinar o resultado final da imagem da capa.
+LibreOffice: Utilizado para organizar e formatar o conteúdo do eBook, garantindo um layout profissional e fácil de ler.
 
 ## 🧐 Processo de Criação
 Texto: Com o ChatGPT-4, desenvolvi receitas detalhadas, incluindo listas de ingredientes, modo de preparo e dicas nutricionais.
